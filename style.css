@@ -157,6 +157,11 @@
         left: 0;
         top: 0;
         transition: transform 0.2s, background-color 0.2s;
+        margin-left: 150px;
+        }
+
+        #sim{
+            margin-right: 150px;
         }
 
         #nao:hover {
